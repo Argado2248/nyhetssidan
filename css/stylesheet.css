@@ -1,0 +1,35 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.site-container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.article-h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0rem;
+}
+
+.article-h2 {
+    font-size: 1.1rem;
+}
+
+.spacer-full {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+p {
+    max-width: 48rem;
+}
+
+footer {
+    font-style: italic;
+}
